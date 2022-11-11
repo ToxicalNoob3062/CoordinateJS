@@ -1,4 +1,4 @@
-import Point from "./library/point";
+import Point from "./point";
 
 export default Library = {
   Point,
