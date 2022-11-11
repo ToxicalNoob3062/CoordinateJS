@@ -1,5 +1,7 @@
-import Point from "./library/point";
+import Point from "./library/point.js";
 
-export default Library = {
+const Library = {
   Point,
 };
+
+export default Library;

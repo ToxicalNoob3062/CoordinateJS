@@ -1,4 +1,4 @@
-import Library from "../coordinate";
+import Library from "../coordinate.js";
 
 export default class Point {
   constructor(a, b) {
