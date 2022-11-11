@@ -1,0 +1,28 @@
+{
+  "name": "cordinatejs",
+  "version": "1.0.0",
+  "description": "Tries to cover all cordinating mathematiatical functions to boost calculations related to straightlines and conics",
+  "main": "CordinateJS/coordinate.js",
+  "type": "module",
+  "scripts": {
+    "test": "node CordinateJS/coordinate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToxicalNoob3062/CordinateJS.git"
+  },
+  "keywords": [
+    "Desmos",
+    "Graphing",
+    "CoordinateGeometry",
+    "StraightLines",
+    "Circle",
+    "Conics"
+  ],
+  "author": "Rahat Bin Taleb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToxicalNoob3062/CordinateJS/issues"
+  },
+  "homepage": "https://github.com/ToxicalNoob3062/CordinateJS#readme"
+}
