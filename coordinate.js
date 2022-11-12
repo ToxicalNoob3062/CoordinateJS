@@ -1,6 +1,8 @@
-import Point from "./library/point.js";
+import Point from "./library/points/point.js";
 
+const ToolBelt = {};
 const Library = {
+  ToolBelt,
   Point,
 };
 
